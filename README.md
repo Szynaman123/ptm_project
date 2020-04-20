@@ -1,0 +1,1 @@
+To jest projekt z PTM temat interpolacja trygonometryczna
