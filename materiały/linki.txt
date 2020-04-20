@@ -1,0 +1,6 @@
+https://people.sc.fsu.edu/~jburkardt/m_src/trig_interp/trig_interp.html?fbclid=IwAR3H2QZlXPSdATW7MbQ3tuLy5ie2oTNQCHkMry0lcr9ssJ0OWmNNjdFnHxs
+https://demonstrations.wolfram.com/TrigonometricFittingAndInterpolation/?fbclid=IwAR1jVXwO9nxLCjm7nw35nTSe2OZZe-PAW6r3yemQIaHxBQKZb1T_WNgwmC8
+https://github.com/galustian/Trigonometric-Interpolation?fbclid=IwAR2GsfHGVEXfp-RcSuKT0omMVo6rif0ohxkyiNw1ieH0lrMHs8mz1njH-tc
+https://en.wikiversity.org/wiki/Trigonometric_interpolation?fbclid=IwAR3zJQWEIzewk6Z36u_S_C4Cb9iMqZ_EZGSh9WRPOVMIiuoJIHLWS5sWZjg
+http://articles.adsabs.harvard.edu/full/1970CeMec...1..360G/0000360.000.html?fbclid=IwAR1GOA7o-pdnzDkkSn9sQj48uFUaMmAeeEk0OKqiGb1J-fBbbbo6nwVh9Bo
+https://pl.wikipedia.org/wiki/Szereg_Fouriera?fbclid=IwAR2eFT_LRisJDAjxTMaphiyqfmkkYJrScdxs8WH831uGiLR0BH_yxR_M4uY
